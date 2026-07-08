@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pcmaticlogin.readthedocs.io/en/latest/
